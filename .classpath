@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/lib/itext-pdfa-5.5.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itext-pdfa-5.5.6-sources.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itext-pdfa-5.5.6.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itext-rtf.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itext-xtra-5.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itext-xtra-5.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itext-xtra-5.2.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itext-xtra-5.5.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itext-xtra-5.5.6-sources.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itext-xtra-5.5.6.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itextpdf-5.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itextpdf-5.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itextpdf-5.2.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itextpdf-5.5.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itextpdf-5.5.6-sources.jar"/>
+	<classpathentry kind="lib" path="dist/lib/itextpdf-5.5.6.jar"/>
+	<classpathentry kind="lib" path="dist/lib/java-mail-1.4.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/javax.mail-1.3.3.01.jar"/>
+	<classpathentry kind="lib" path="dist/lib/javax.mail-api-1.4.6.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jpathwatch-0.94.jar"/>
+	<classpathentry kind="lib" path="dist/lib/kie-nio2-model-6.0.0.beta5.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="dist/lib/pdf-renderer-1.0.5-sources.jar"/>
+	<classpathentry kind="lib" path="dist/lib/PDFRenderer-0.9.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="dist/lib/xnio-nio.jar"/>
+	<classpathentry kind="lib" path="dist/Resume_Builder.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
